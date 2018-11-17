@@ -3,7 +3,11 @@ Calligraphic Images Denoising by GAN
 ## Introduction
 
 The paper is under review......
-
+## Requirements
+1. phthon3.x
+2. tensorflow1.4.0
+3. pillow
+4. numpy
 ## Results
 |Input|Output|Input|Output|Input|Output|
 |-|-|-|-|-|-|
